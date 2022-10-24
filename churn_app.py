@@ -33,7 +33,7 @@ import sklearn
 #     set debugging to True. But when running
 #      the app, set debugging to False:
 
-debugging = True  # Else ,False
+debugging = False  # Else ,False
 
 
 # 1.2
